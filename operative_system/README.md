@@ -1,5 +1,5 @@
 ## Here there's the OS code of robot
-### Feature
+### Features
 
 | Type | Status |
 |------|--------|
